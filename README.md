@@ -1,5 +1,5 @@
 # ontologies
-A list of ontologies that are used to represent Linked Building Data
+A list of ontologies being developed within the community to represent Linked Building Data
 
 ## How to add your own
 1. Fork this repository
