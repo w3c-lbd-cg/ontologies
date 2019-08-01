@@ -1,6 +1,5 @@
 # ontologies
-A list of ontologies that use the LBD technologies
-
+A list of ontologies that are used to represent Linked Building Data
 
 ## How to add your own
 1. Fork this repository
