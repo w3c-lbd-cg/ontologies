@@ -18,6 +18,8 @@ A list of external ontologies related to the ontologies being developed within t
 
 * [IFC-PRODUCT](https://github.com/pipauwel/product) by *[Pieter Pauwels](https://www.ugent.be/ea/architectuur/en/contact/staff-members/pieter-pauwels)*: extended version of the minimal LBD PRODUCT ontology, based on IFC product definitions
 
+* [Brick](https://github.com/BrickSchema/brick/) by [Brick Consortium](https://brickschema.org/): Defines HVAC, lighting, spatial and electrical concepts and relationships for the purposes of contextualizing data sources in buildings. Provides a high-level topological and compositional view of buildings and their subsystems.
+
 * HVAC ontology
 
 * PROJECT ontology
