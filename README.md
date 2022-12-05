@@ -20,6 +20,8 @@ A list of external ontologies related to the ontologies being developed within t
 
 * [Brick Ontology](https://github.com/BrickSchema/brick/) by [Brick Consortium](https://brickschema.org/): Defines HVAC, lighting, spatial and electrical concepts and relationships for the purposes of contextualizing data sources in buildings. Provides a high-level topological and compositional view of buildings and their subsystems. Primary contact is [Gabe Fierro](https://gtf.fyi).
 
+* [RealEstateCore - REC Ontology](https://github.com/RealEstateCore/rec) RealEstateCore is an open-source ontology for building-related data and applications. The model includes the ontology, an API specification and a message format. It cover all parts of a real estate for proptech use cases, not only devices and technical systems but also business and user activities.
+
 * HVAC ontology
 
 * PROJECT ontology
